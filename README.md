@@ -1,11 +1,27 @@
-# React Counter App
+# 🧠 React Projects Collection
 
-A simple counter app built with React.
+Welcome to my collection of React projects! This repository contains multiple small to medium-sized projects built using **React**, intended for learning, practice, and showcasing frontend development skills.
 
-## Features
-- Increment and decrement counter
-- Reset counter
-- Clean UI
+---
+
+## 📁 Project List
+
+### 1. [Counter App](./counter-app/)
+A basic counter application using React hooks.
+
+**Features:**
+- Increment/Decrement
+- Reset button
+- Clean UI with responsive design
+
+---
+### 2. [Image Changer](./image-changer/)
+A simple app that displays different animal images based on which button you click.
+
+**Features:**
+- 4 buttons for different animals (e.g., Cat, Dog, Elephant, Lion)
+- Image changes dynamically using `useState`
+- Organized and clean UI
 
 ## Setup
 
