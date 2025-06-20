@@ -15,7 +15,7 @@ A basic counter application using React hooks.
 - Clean UI with responsive design
 
 ---
-### 2. [Image Changer](./image-changer/)
+### 2. [Image Changer](./my-vite-project-background-changer/)
 A simple app that displays different animal images based on which button you click.
 
 **Features:**
