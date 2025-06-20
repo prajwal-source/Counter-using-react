@@ -1,0 +1,27 @@
+body{
+  background-image: url("https://images.pexels.com/photos/248159/pexels-photo-248159.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+}
+
+#root {
+  background-color: #fff;
+  border-radius: 5px ;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+#Box{
+ 
+  height: 200px;
+ 
+  margin-top: 0px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+.buttons{
+  width: 400px;
+margin-top: 10px;
+display: flex;
+justify-content: space-evenly;
+}
+
