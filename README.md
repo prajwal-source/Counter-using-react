@@ -6,7 +6,7 @@ Welcome to my collection of React projects! This repository contains multiple sm
 
 ## 📁 Project List
 
-### 1. [Counter App](./counter-app/)
+### 1. [Counter App](./my-vite-project-01/)
 A basic counter application using React hooks.
 
 **Features:**
